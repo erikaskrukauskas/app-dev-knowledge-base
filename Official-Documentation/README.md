@@ -56,7 +56,7 @@ These are places to confirm a tool's current behavior. The practice of naming a 
 | Source | Entry |
 | --- | --- |
 | pytest | https://docs.pytest.org/en/stable/ |
-| JUnit 5 | https://junit.org/junit5/docs/current/user-guide/ |
+| JUnit | https://junit.org/junit5/docs/current/user-guide/ |
 | Playwright | https://playwright.dev/docs/intro |
 
 ## How to add a source

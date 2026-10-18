@@ -24,7 +24,7 @@ Run both when the change has a contract and a user-visible result. Testing the c
 - The named check passed in this environment.
 - The boundary in the specification was the boundary that changed.
 - Failure behavior was checked, not only the success path.
-- Accessibility behavior that the change claimed was part of the exercised path.
+- Accessibility behavior named for the change was part of the exercised path. See [Accessibility](08-accessibility.md).
 
 ## What to record
 
